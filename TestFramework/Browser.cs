@@ -9,8 +9,8 @@ namespace TestFramework
         public static string SignInId = "login-submit";
         public static string UserNameId = "login-email";
         public static string PasswordId = "login-password";
-        public static string UserNameIdText = "Akanksha304@gmail.com";
-        public static string PasswordIdText = "Shri0908&";
+        public static string UserNameIdText = "*****************";
+        public static string PasswordIdText = "******";
 
         public static string Title
         {
